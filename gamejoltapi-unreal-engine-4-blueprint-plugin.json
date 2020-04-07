@@ -1,0 +1,10 @@
+{
+	"name": "GameJolt API - Unreal Engine 4 Blueprint Plugin",
+	"api": "1.2",
+	"engine": "Unreal Engine 4",
+	"homepage": "https://gamejolt.com/games/gjapi-bp/318270",
+	"author": "FreezerNick",
+	"code": "https://gitlab.com/f2pe/ue4/plugins/runtime/ue4-gamejoltapi",
+	"bugs": "https://gitlab.com/f2pe/ue4/plugins/runtime/ue4-gamejoltapi/-/issues",
+	"license": "CC0 1.0"
+}
